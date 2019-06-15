@@ -1,0 +1,22 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "webdb-challenge",
+  "main": "index.js",
+  "scripts": {
+    "test": "node.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kbrian97/webdb-challenge.git"
+  },
+  "keywords": [
+    "webdb"
+  ],
+  "author": "Kwesi-Brian Torgbede",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kbrian97/webdb-challenge/issues"
+  },
+  "homepage": "https://github.com/kbrian97/webdb-challenge#readme"
+}
